@@ -12,10 +12,9 @@
   text-decoration: none;
   color: white;
   position: relative;
-  z-index: 2;
 }
 
-.cover__link::after {
+.cover__link::before {
   content: '';
   position: absolute;
   top: 0;
@@ -24,10 +23,10 @@
   left: 0;
   background-color: #2A2C2F;
   opacity: 0.3;
-  transition: opacity 0.3s ease-in;
+  transition: opacity 0.3s;
 }
 
-.cover__link:hover::after {
+.cover__link:hover::before {
   opacity: 0.8;
 }
 
