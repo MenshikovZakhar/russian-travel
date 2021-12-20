@@ -25,7 +25,3 @@
     min-height: 200px;
   }
 }
-
-.cover__link:hover {
-  background-image: linear-gradient(rgba(42, 44, 47, 0.8), rgba(42, 44, 47, 0.8)), url(../../../images/cover-trains.jpg);
-}
