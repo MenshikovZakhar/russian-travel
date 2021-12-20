@@ -21,7 +21,6 @@
     width: calc(100% - 2 * 24px);
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(6, 1fr);
-    grid-template-columns: repeat(auto-fit, minmax(352px, 1fr));
     grid-gap: 16px;
     margin-top: 88px;
   }
