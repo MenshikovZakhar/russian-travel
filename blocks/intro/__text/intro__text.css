@@ -11,15 +11,13 @@
 
 @media screen and (max-width: 1023px) {
   .intro__text {
-    max-width: 720px;
-    margin: 0 auto;
     margin-top: 40px;
+    min-width: 100%;
   }
 }
 
 @media screen and (max-width: 767px) {
   .intro__text {
-    max-width: 288px;
     margin-top: 40px;
   }
 }
