@@ -20,3 +20,6 @@
 Клонируйте репозиторий:
 
 `git clone https://github.com/MenshikovZakhar/russian-travel.git`
+
+## Планируемые доработки:
+1. Реализовать английскую версию проекта;
