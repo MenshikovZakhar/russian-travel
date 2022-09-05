@@ -8,7 +8,12 @@
 [Ссылка на проект](https://menshikovzakhar.github.io/russian-travel/)
 
 ## Стэк технологий
-HTML5, CSS3, БЭМ, адаптивная верстка, Grid Layout и Flexbox-верстка
+
+1.HTML5, 
+2.CSS3,
+3.БЭМ,
+4.Адаптивная верстка, 
+5.Grid Layout и Flexbox-верстка.
 
 ## Как развернуть проект
 
