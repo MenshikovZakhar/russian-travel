@@ -1,4 +1,9 @@
 # Путешествие по России
+<p align="center">
+    <img alt="Version 1.0.0" src="https://img.shields.io/badge/version-1.0.0-blue" />
+    <img alt="Quality" src="https://img.shields.io/badge/status-release-orange.svg" >
+    <img alt="Made by: Comediany" src="https://img.shields.io/badge/made%20by-Comedian-blue" />
+</p>
 
 ## Описание
 
