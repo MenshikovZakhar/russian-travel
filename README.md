@@ -13,7 +13,7 @@
 Grid, позиционирование, анимация и трансформация, формы, БЭМ, Flat - файловая структура.
 
 
-[Ссылка на проект](https://menshikovzakhar.github.io/russian-travel/)
+## [Ссылка на проект](https://menshikovzakhar.github.io/russian-travel/)
 
 ![Watch the video](./preview.gif)
 
