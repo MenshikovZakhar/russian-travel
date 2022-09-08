@@ -16,7 +16,8 @@ Grid, позиционирование, анимация и трансформа
 [Ссылка на проект](https://menshikovzakhar.github.io/russian-travel/)
 
 ![Watch the video](./preview.gif)
-## Стэк технологий
+
+## :hammer: Стэк технологий
 
 1. HTML5, 
 2. CSS3,
