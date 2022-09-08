@@ -15,11 +15,11 @@
 ![Watch the video](./preview.gif)
 ## Стэк технологий
 
-1.HTML5, 
-2.CSS3,
-3.БЭМ,
-4.Адаптивная верстка, 
-5.Grid Layout и Flexbox-верстка.
+1. HTML5, 
+2. CSS3,
+3. БЭМ,
+4. Адаптивная верстка, 
+5. Grid Layout и Flexbox-верстка.
 
 ## Как развернуть проект
 
