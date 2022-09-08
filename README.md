@@ -6,7 +6,7 @@
 выполненный в рамках учебной программы Яндекс.Практикум по специальности веб-разработчик.
 
 [Ссылка на проект](https://menshikovzakhar.github.io/russian-travel/)
-
+![Watch the video](./preview.gif)
 ## Стэк технологий
 
 1.HTML5, 
